@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyareddy1028
-- 👀 I’m interested in c,python and java
-- 🌱 I’m currently learning c programme
+- 👀 I’m interested in c, python and Java
+- 🌱 I’m currently learning python program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
